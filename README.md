@@ -1,2 +1,2 @@
 # mod2_sol
-Assignment 2 
+Contains the html and css file
